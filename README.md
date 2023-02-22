@@ -23,3 +23,5 @@ to change the health measure you are looking at at your graph
 to change the metric from relative to absolute
 to choose multiple parameter values based on user own characteristics and see the risk of having diabetes with such values (but can also be done with filters depending on the approach)
 At least one more visualization of your choice adds value to your analysis
+
+Link to Tableau Project https://public.tableau.com/views/Diabetes-Capstone2/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
